@@ -42,4 +42,4 @@
 </ol>
 
 <h3>A Few Notes</h3>
-<p>This is meant for learning and sharing—not for real-world business use. Data credit goes to the original Kaggle contributors.</p>
+<p>This is meant for learning and sharing—not for real-world business use.</p>
