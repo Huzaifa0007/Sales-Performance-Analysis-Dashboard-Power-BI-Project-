@@ -40,3 +40,6 @@
   <li>Open it in Power BI Desktop.</li>
   <li>Use the slicers to filter by year or month and see how performance changes over time.</li>
 </ol>
+
+<h3>A Few Notes</h3>
+<p>This is meant for learning and sharing—not for real-world business use. Data credit goes to the original Kaggle contributors.</p>
