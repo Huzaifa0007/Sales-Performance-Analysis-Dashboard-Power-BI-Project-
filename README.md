@@ -31,7 +31,8 @@
 </ul>
 
 <h3>Dashboard Preview</h3>
-![Dashboard Preview](https://github.com/Huzaifa0007/Sales-Performance-Analysis-Dashboard-Power-BI-Project-/blob/main/Snapshot_sales-project-using-power-bi.JPG)
+
+![Dashboard](https://github.com/Huzaifa0007/Sales-Performance-Analysis-Dashboard-Power-BI-Project-/blob/main/Snapshot_sales-project-using-power-bi.JPG?raw=true)
 
 <h3>How to Explore</h3>
 <ol>
