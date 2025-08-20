@@ -27,7 +27,7 @@
   <li>Delhi NCR leads both in revenue (~520M) and sales quantity (~0.99M).</li>
   <li>Revenue fluctuates across months, with notable peaks in early 2018 and mid-2019.</li>
   <li>A few customers contribute the majority of total revenue, showing a heavy reliance on key accounts.</li>
-  <li>In the year 2020 we are seeing downfall in revenue.</li>
+  <li>The year 2020 shows a significant downfall in revenue, likely due to external factors such as the pandemic.</li>
 </ul>
 
 <h3>Dashboard Preview</h3>
